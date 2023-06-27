@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Elegying.github.io</id>
+    <title>红颜依旧</title>
+    <updated>2023-06-27T19:21:17.888Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Elegying.github.io"/>
+    <link rel="self" href="https://Elegying.github.io/atom.xml"/>
+    <subtitle>内部网站，请勿分享</subtitle>
+    <logo>https://Elegying.github.io/images/avatar.png</logo>
+    <icon>https://Elegying.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 红颜依旧</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果电脑MAC系统SSR]]></title>
+        <id>https://Elegying.github.io/post/ping-guo-dian-nao-mac-xi-tong-ssr/</id>
+        <link href="https://Elegying.github.io/post/ping-guo-dian-nao-mac-xi-tong-ssr/">
+        </link>
+        <updated>2023-06-27T18:10:32.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1下载安装"><strong>1.下载安装</strong></h1>
+<p>【M1/M2系列芯片请直接参考ios安装教程下载小火箭使用】</p>
+<p>旧款MAC请往下看（兼容性较差，不保证能用）</p>
+<p><a href="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/mac/MAC-SSR.dmg">【下载 MACOS-SSR】</a></p>
+<p>下载完成后打开软件，如果打不开请执行以下操作</p>
+<p>打开终端，输入sudo spctl –master-disable，然后输入锁屏密码，回车结束。密码不显示。</p>
+<p>把软件拖入应用程序文件夹中，它会自动安装，点开启动台就能看到安装好的绿色纸飞机了</p>
+<figure data-type="image" tabindex="1"><img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/mac/mac1.jpg" alt="" loading="lazy"></figure>
+<h1 id="2添加服务器"><strong>2.添加服务器</strong></h1>
+<p>复制我叫你收藏到微信的那段代码后在【Safiri】浏览器打开，会提示你跳转软件</p>
+<p>跳转后服务器就添加完成了</p>
+<figure data-type="image" tabindex="2"><img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/mac/mac2.jpg" alt="" loading="lazy"></figure>
+<p>模式选择PAC自动模式即可</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软Windows系统SSR]]></title>
+        <id>https://Elegying.github.io/post/wei-ruan-windows-xi-tong-ssr/</id>
+        <link href="https://Elegying.github.io/post/wei-ruan-windows-xi-tong-ssr/">
+        </link>
+        <updated>2023-06-27T18:00:13.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1下载安装"><strong>1.下载安装</strong></h1>
+<p><a href="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/ShadowsocksR-win-4.9.2.zip">【下载WIN-SSR】</a></p>
+<p>下载压缩包后解压整个文件夹到桌面，打开软件，这个时候桌面右下角会有一个飞机图标</p>
+<figure data-type="image" tabindex="1"><img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/windows/Snipaste_2021-02-04_19-41-58.png" alt="" loading="lazy"></figure>
+<h1 id="2添加服务器"><strong>2.添加服务器</strong></h1>
+<p>电脑复制我叫你收藏到微信的那段代码</p>
+<p>然后右键这个飞机图标后选择【剪贴板批量导入ssr://连接…】</p>
+<figure data-type="image" tabindex="2"><img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/windows/windows1.jpg" alt="" loading="lazy"></figure>
+<p>这个时候会弹出软件窗口，你能看到刚刚导入的【私家车】服务器参数</p>
+<figure data-type="image" tabindex="3"><img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/windows/Snipaste_2021-02-04_19-47-12.png" alt="" loading="lazy"></figure>
+<p>确定后服务器就添加完成了</p>
+<h1 id="3设定模式"><strong>3.设定模式</strong></h1>
+<p>右键桌面右下角的飞机图标设定一下模式</p>
+<p>1.【系统代理模式】选择【PAC模式】<br>
+<img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/windows/windows3.jpg" alt="" loading="lazy"></p>
+<p>2.【服务器】选择【私家车】</p>
+<figure data-type="image" tabindex="4"><img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/windows/Snipaste_2021-02-04_19-49-55.png" alt="" loading="lazy"></figure>
+<p>3.把负载均衡前面的√取消掉</p>
+<p>至此你的设置已经全部完成，打开谷歌浏览器试试能不能访问谷歌</p>
+<p>请尽量避免使用360浏览器等国内浏览器</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓系统SSR]]></title>
+        <id>https://Elegying.github.io/post/an-zhuo-xi-tong-ssr/</id>
+        <link href="https://Elegying.github.io/post/an-zhuo-xi-tong-ssr/">
+        </link>
+        <updated>2023-06-27T17:39:44.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1下载安装"><strong>1.下载安装</strong></h1>
+<p><a href="http://1.117.170.132:8888/down/r4HB4k1IcMyJ">【shadowsocksr-android-3.5.4】</a><br>
+下载后安装，然后打开软件</p>
+<h1 id="2导入节点"><strong>2.导入节点</strong></h1>
+<p>手机复制我叫你收藏到微信的那段代码</p>
+<p>然后打开软件点击顶部的shadowrocksR</p>
+<p>弹出的+号图标点击后选择通过剪贴板添加节点</p>
+<figure data-type="image" tabindex="1"><img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/android/Snipaste_2023-06-28_01-46-15.png" alt="" loading="lazy"></figure>
+<p>至此你的设置已经全部完成，打开自带浏览器试试能不能访问谷歌</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果ios系统SSR]]></title>
+        <id>https://Elegying.github.io/post/ping-guo-ios-xi-tong-ssr/</id>
+        <link href="https://Elegying.github.io/post/ping-guo-ios-xi-tong-ssr/">
+        </link>
+        <updated>2023-06-27T17:31:42.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1下载安装教程"><strong>1.下载安装教程</strong></h1>
+<p>账号信息<br>
+账号：usvpnid@qq.com<br>
+提示双重认证请点击“其他选项”&gt;“不升级”否则手机会被锁定！</p>
+<p>仅可在APP Store中登录使用，登录icloud导致的账户被锁定，我没法提供技术支持</p>
+<p>密码：Abc001144 输完密码后请点【其他选项】-【不升级】</p>
+<p>1、在 iPhone 或 iPad 主屏幕上找到「App Store」软件打开，点击右上角「头像图标」，下滑到底部，点击「退出登录」现有账号。</p>
+<p>2、输入上方的账号密码，点击「登录」。如果出现「Apple ID 安全」提示，点击下方的「其他选项」，点击「不升级」继续登录。</p>
+<figure data-type="image" tabindex="1"><img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/ios/yw9xwa-0.jpg" alt="" loading="lazy"></figure>
+<p>登录后会自动跳转英文商店，搜索shadowrocket安装，图标长这样，别下错了<br>
+<img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/ios/Snipaste_2023-06-28_01-35-04.png" alt="" loading="lazy"></p>
+<h1 id="2-添加服务器"><strong>2、添加服务器</strong></h1>
+<p>安装完成后手机复制我给你的代码</p>
+<p>然后打开Shadowrocket，软件会自动弹出服务器添加选项</p>
+<figure data-type="image" tabindex="2"><img src="https://nikuaimobi.oss-cn-qingdao.aliyuncs.com/ios/Snipaste_2023-06-28_01-36-17.png" alt="" loading="lazy"></figure>
+<p>添加完服务器后打开顶部的开关就能使用了</p>
+<p>首次打开开关会弹出允许网络连接的选项，选择允许然后输入手机密码就能使用了</p>
+<p>不用的时候记得关掉开关以免手机费电</p>
+<p>记得退出ID登录回自己的ID！！</p>
+]]></content>
+    </entry>
+</feed>
